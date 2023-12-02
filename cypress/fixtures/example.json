@@ -1,0 +1,7 @@
+{
+ "firstName":"Akshay",
+ "lastName":"Pawar",
+ "Email":"akshay.pawar@gmail.com",
+ "Comment":"This is for testing contact page.",
+ "expectedAlertText":"Your file has now been uploaded!"
+}
